@@ -1,0 +1,42 @@
+.bold_blue{
+font-weight: bold; color: blue;
+}
+
+.nightMode .bold_blue{
+font-weight: bold; color: blue;
+}
+
+.bold_red{
+font-weight: bold; color: #aa0000;
+}
+
+.nightMode .bold_red{
+font-weight: bold; color: #aa0000;
+}
+
+.bold_green{
+font-weight: bold;
+color: green;
+}
+
+.nightMode .bold_green{
+font-weight: bold;
+color: green;
+}
+
+.orange{
+font-weight: bold; color: gray;
+}
+
+.nightMode .orange{
+font-weight: bold; color: gray;
+}
+
+.justify{
+text-align: justify;
+}
+
+.nightMode .justify{
+text-align: justify;
+}
+
